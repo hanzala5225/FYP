@@ -1,16 +1,24 @@
-# rental_app
+# ELECTRO RENT
+A new flutter project; An e-commerce app where users can rent out "Electric Appliances" on a cheap rate. Users can also generate revenue by renting out their appliances which they have no use of. 
+# SOME COMMON FEATURES INCLUDES:
+* Login
+* Search items of your own choice
+* Add items to cart
+* View cart
+* Remove or add more items to cart
+* Check out with order/payment
+* Order items successfully
+* View your order from "Your Orders"
 
-A new Flutter project.
+# DATABASE:
+Firebase
+* Users Collections
+* Items Collections
+* Orders details
 
-## Getting Started
+# Artificial Intelligence
+* Recommendation System
+* Image Processing to match items before ordering and after getting back to see if there's any fault in between
+* Price prediction
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+if you have any query regarding it, be sure to ask at "hanzalaahmed718@gmail.com"
